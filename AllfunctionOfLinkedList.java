@@ -104,8 +104,7 @@ public class AllfunctionOfLinkedList
        int length=0;
 
 
-    //    github demo 2
-    // github demo 3
+    //    github demo
         
         Node temp=head;
         while(temp!=null)
